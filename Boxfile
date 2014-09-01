@@ -1,0 +1,8 @@
+web1:
+  name: kbpanel
+  shared_writable_dirs:
+    - site/accounts
+    - thumbs
+    - content
+    - assets/avatars
+
